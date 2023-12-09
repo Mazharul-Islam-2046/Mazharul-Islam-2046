@@ -59,6 +59,49 @@
 # 🆕 Latest Project
 <br />
 
+
+🩸 **Blood Donation App ( Donate Your Blood )**
+
+[Blood Donation Live Link](https://blood-donation-client-e03ab.web.app/)
+
+Admin Email: gum@gum.com
+</br>
+Admin Password: 123456Aa!
+
+
+<ul>
+  <li>User Can Open an account</li>
+  <li>Can Request For Blood Donation</li>
+  <li>Can Donate Blood</li>
+  <li>Admin Can Manage Donation</li>
+  <li>Admin Can Post Blogs</li>
+  <li>Admin Can Delete Users</li>
+  <li>Voluteer Can Manage Donation</li>
+
+</ul>
+<br />
+<br />
+<br />
+
+📷 **CamR ( Rent Your Camera )**
+
+[CamR Live Link](https://blood-donation-client-e03ab.web.app/)
+
+
+<ul>
+  <li>User Can Open an account</li>
+  <li>Can rent camera</li>
+  <li>Can List their accessories for rent</li>
+  <li>can delete their listing</li>
+</ul>
+
+
+
+
+<br />
+<br />
+<br />
+
 🛒: **brandShop ( A Car Buying Shop )**
 
 [brandShop Live Link](https://brandshopmz.web.app/)
@@ -74,9 +117,6 @@
 
 </ul>
 
-<br />
-<br />
-<br />
 
 
 
