@@ -12,7 +12,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="./assets/Linkedin.png">](https://www.linkedin.com/in/md-mazharul-islam-mzshishir/)[<img height="75" src="./assets/Twitter.png">](https://twitter.com/Mzshishir2046)
+[<p align="center"><img height="75" src="./assets/Linkedin.png">](https://www.linkedin.com/in/md-mazharul-islam-mzshishir/)                                     [<img height="75" src="./assets/Twitter.png">](https://twitter.com/Mzshishir2046)
 <br />
 
 
