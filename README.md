@@ -12,7 +12,26 @@
 
 <br />
 
-[<img height="75" src="./assets/Linkedin.png">](https://www.linkedin.com/in/md-mazharul-islam-mzshishir/)                                     [<img height="75" src="./assets/Twitter.png">](https://twitter.com/Mzshishir2046)
+[<p align="center"> [<img height="75" src="./assets/Linkedin.png">](https://www.linkedin.com/in/md-mazharul-islam-mzshishir/)      [<img height="75" src="./assets/Twitter.png">](https://twitter.com/Mzshishir2046)</p>]
 <br />
 
+
+
+## :computer: Technologies that I know
+
+[<p align="center">![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react)](https://skillicons.dev)</p>
+[<p align="center">![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,firebase&perline=5)](https://skillicons.dev)</p>
+
+
+
+<br/>
+
+
+
+## :eyes: Current overview
+
+
+### 🏫Learning: Learning Next JS in Programming Hero
+### 🔎Exploring: Currently Exploring Mongoose
+### 🦝Curious: Currently Curious About Ai integration in Websites and Web apps
 
