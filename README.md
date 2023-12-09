@@ -2,7 +2,15 @@
 <img src="./assets/Md Mazharul Islam.png" />
 </a>
 
+</br>
+</br>
 
+
+## 👦: About My Work
+</br>
+<p>I'm a Web Developer mainly works with React, Express, Node JS, And MongoDB as DataBase(MERN). Curious About Upcoming AI Revolution. AI impact on WebApp Building. Currently Exploring few AI tools and to Integrate with my new Projects. I use the Technologies to build Elegant looking, Fast and Light weight Websites</p>
+
+</br>
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -44,6 +52,37 @@
 
 
 <br/>
+
+
+<br />
+
+# 🆕 Latest Project
+<br />
+
+🛒: **brandShop ( A Car Buying Shop )**
+
+[brandShop Live Link](https://brandshopmz.web.app/)
+
+
+<ul>
+  <li>User Can Open an account</li>
+  <li>Can See Products By Brand.</li>
+  <li>Can See Products Details.</li>
+  <li>Can Add Products to Cart.</li>
+  <li>Can Add New Products</li>
+  <li>Can Can Edit Products Details</li>
+
+</ul>
+
+<br />
+<br />
+<br />
+
+
+
+
+</br>
+</br>
 
 
 
