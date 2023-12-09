@@ -6,7 +6,7 @@
 </br>
 
 
-## 👦: About me and My Work
+## 👦: About Me and My Work
 </br>
 <p>I'm a Web Developer mainly works with React, Express, Node JS, And MongoDB as DataBase(MERN). Curious About Upcoming AI Revolution. AI impact on WebApp Building. Currently Exploring few AI tools and to Integrate with my new Projects. I use the Technologies to build Elegant looking, Fast and Light weight Websites</p>
 
