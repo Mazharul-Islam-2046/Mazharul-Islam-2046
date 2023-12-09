@@ -46,6 +46,9 @@
 
 ## :computer: Technologies that I know
 
+</br>
+</br>
+
 [<p align="center">![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react)](https://skillicons.dev)</p>
 [<p align="center">![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,firebase&perline=5)](https://skillicons.dev)</p>
 
