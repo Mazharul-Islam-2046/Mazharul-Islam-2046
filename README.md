@@ -18,8 +18,21 @@
 
 <br />
 
-[<p align="center"> [<img height="75" src="./assets/Linkedin.png">](https://www.linkedin.com/in/md-mazharul-islam-mzshishir/)      [<img height="75" src="./assets/Twitter.png">](https://twitter.com/Mzshishir2046)</p>]
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-mazharul-islam-mzshishir" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/mzsh4" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/Mzshishir2046" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  
+</div>
 <br />
+
 
 
 
